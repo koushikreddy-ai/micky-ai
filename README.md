@@ -50,3 +50,9 @@ micky-ai/
 ├── micky.py        # Main AI code
 ├── requirements.txt # Python dependencies
 └── README.md       # Project explanation (this file)
+
+Contact
+
+Koushik Reddy – [koushikreddyofc@gmail.com]
+
+Feel free to reach out for collaboration, feedback, or questions!
